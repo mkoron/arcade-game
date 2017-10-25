@@ -1,3 +1,6 @@
+# Configuration file
+# ------------------
+
 banana_image = 'images/banana.png'
 weight_image = 'images/weight.png'
 splash_image = 'images/banana.png'
